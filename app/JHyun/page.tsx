@@ -1,6 +1,5 @@
-import React from 'react';
 
-const JHyun = () => {
+export default function JHyun() {
   return (
     <div>
       <h1>벌써 주말이 끝이라니</h1>
@@ -8,5 +7,3 @@ const JHyun = () => {
     </div>
   );
 };
-
-export default JHyun;
